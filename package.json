@@ -2,7 +2,7 @@
   "name": "sites",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ayushashish.github.io/my-portfolio",
+  "homepage": "https://ayushashish.github.io/my-portfolio/",
   "dependencies": {
     "@sanity/block-content-to-react": "^2.0.7",
     "@sanity/client": "^2.7.1",
