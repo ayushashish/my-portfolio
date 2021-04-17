@@ -1,6 +1,6 @@
 import React from "react";
 import uielement from "../images/uielement.svg";
-import circle from "../images/circle.svg"
+
 export default function Home() {
   return (
     <main>
